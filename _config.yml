@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Kashob Roy"
 description              : ""
-repository               : "kkroy2/kkroy2.github.io"
+repository               : "RoyKashob/RoyKashob.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -38,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : kkroy2 # e.g., "github username"
+  github           : RoyKashob # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : forkkr # e.g., "linkedin username"
+  linkedin         : roykashob # e.g., "linkedin username"
   dblp             : https://dblp.org/pid/289/5862.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
