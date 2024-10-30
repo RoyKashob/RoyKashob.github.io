@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kashob Kumar Roy"
-  avatar           : "images/me.jpeg"
-  resume           : "docs/Kashob-Kumar-Roy-Resume.pdf"
+  avatar           : "images/Kashob.jpeg"
+  resume           : "docs/Kashob-Website-Resume.pdf"
   bio              : "CS @ UIUC"
   location         : "IL, USA"
   employer         :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : forkkr # e.g., "github username"
+  github           : kkroy2 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :

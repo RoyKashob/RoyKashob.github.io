@@ -34,7 +34,7 @@ I'm 3rd year PhD student in Computer Science at <a href='https://cs.illinois.edu
 <strong> 2024 </strong>
 <ul>
 <li>
-<code class="language-plaintext highlighter-rouge"> EMNLP 24 </code> <a href="">ConTReGen: Context-driven Tree-structured Retrieval for Open-domain Long-form Text Generation</a>, <strong>Kashob Kumar Roy</strong>, Pritom Saha Akash, Lucian Popa, Kevin Chen-Chuan Chang.
+<code class="language-plaintext highlighter-rouge"> EMNLP 24 </code> <a href="https://arxiv.org/abs/2410.15511">ConTReGen: Context-driven Tree-structured Retrieval for Open-domain Long-form Text Generation</a>, <strong>Kashob Kumar Roy</strong>, Pritom Saha Akash, Lucian Popa, Kevin Chen-Chuan Chang.
 </li>
 
 <li>
