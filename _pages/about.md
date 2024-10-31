@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, this is Kashob. 
 
-I'm 3rd year PhD student in Computer Science at <a href='https://cs.illinois.edu/'>University of Illinois Urbana-Champaign</a>, working with <a href='https://cs.illinois.edu/about/people/faculty/kcchang'>Prof. Kevin C.C Chang</a>. My research is focused on advancing the capabilities of large language models (LLMs) in the fields of Information Retrieval and Retrieval-Augmented Generation. My primary emphasis is on enhancing Knowledge and Reasoning within LLMs, which includes: i) Knowledge: Enhancing factuality and improving retrieval-augmentation methods; ii) Reasoning: Developing methods for complex reasoning. 
+I'm 3rd year PhD student in Computer Science at <a href='https://cs.illinois.edu/'>University of Illinois Urbana-Champaign</a>, working with <a href='https://cs.illinois.edu/about/people/faculty/kcchang'>Prof. Kevin C.C Chang</a>. My research is focused on advancing the capabilities of large language models (LLMs) in the fields of Information Retrieval and Retrieval-Augmented Generation. My primary emphasis is on enhancing Knowledge and Reasoning within LLMs, which includes: i) Knowledge: Enhancing factuality and improving retrieval-augmentation methods; ii) Reasoning in multi-agent systems: Developing LLM-based multi-agent systems for complex reasoning task. 
 
 # 📢 News
 - *2024.09*: One paper accepted at EMNLP'24. 
@@ -39,8 +39,8 @@ I'm 3rd year PhD student in Computer Science at <a href='https://cs.illinois.edu
 
 <li>
 <code class="language-plaintext highlighter-rouge"> ACL 24 </code> <a href="https://aclanthology.org/2024.findings-acl.11/">Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs</a>, 
-
 Bowen Jin, Chulin Xie, Jiawei Zhang, <strong>Kashob Kumar Roy</strong>, Yu Zhang, Suhang Wang, Yu Meng, Jiawei Han
+<span class='show_paper_citations' data='R1lEOz8AAAAJ:roLk4NBRz8UC'></span>
 </li>
 </ul>
 
