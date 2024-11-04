@@ -22,8 +22,9 @@ Hi, this is Kashob.
 I'm 3rd year PhD student in Computer Science at <a href='https://cs.illinois.edu/'>University of Illinois Urbana-Champaign</a>, working with <a href='https://cs.illinois.edu/about/people/faculty/kcchang'>Prof. Kevin C.C Chang</a>. My research is focused on advancing the capabilities of large language models (LLMs) in the fields of Information Retrieval and Retrieval-Augmented Generation. My primary emphasis is on enhancing Knowledge and Reasoning within LLMs, which includes: i) Knowledge: Enhancing factuality and improving retrieval-augmentation methods; ii) Reasoning in multi-agent systems: Developing LLM-based multi-agent systems for complex reasoning task. 
 
 # 📢 News
-- *2024.09*: One paper accepted at EMNLP'24. 
-- *2024.05*: One paper accepted at ACL'24. 
+- *2024.09*: One paper accepted at <a href='https://2024.emnlp.org/'>EMNLP'24</a>. 
+- *2024.05*: One paper accepted at <a href='https://2024.aclweb.org/'>ACL'24</a>.
+- *2023.05*: Got externship at [IBM-Almaden Lab](https://research.ibm.com/labs/almaden). 
 <!-- - *2023.11*: New preprint: <a href='https://arxiv.org/abs/2311.09383'>Long-form Question Answering: An Iterative Planning-Retrieval-Generation Approach. </a> -->
 <!-- - *2023.05*: &nbsp;🎉🎉 Got externship at IBM.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -50,7 +51,9 @@ Bowen Jin, Chulin Xie, Jiawei Zhang, <strong>Kashob Kumar Roy</strong>, Yu Zhang
 <code class="language-plaintext highlighter-rouge"> Preprint 23 </code> <a href="https://arxiv.org/abs/2311.09383">Long-form Question Answering: An Iterative Planning-Retrieval-Generation Approach.</a>, Pritom Saha Akash, <strong>Kashob Kumar Roy</strong>, Lucian Popa, Kevin Chen-Chuan Chang.
 </li>
 </ul>
-
+<!-- </ul>
+## Before PhD
+<ul> -->
 <strong> 2022 </strong>
 <ul>
 <li>
